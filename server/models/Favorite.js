@@ -23,6 +23,6 @@ const favoriteSchema = mongoose.Schema(
   { timestamps: true },
 );
 
-const User = mongoose.model('Favorite', favoriteSchema);
+const Favorite = mongoose.model('Favorite', favoriteSchema);
 
 module.exports = { Favorite };
