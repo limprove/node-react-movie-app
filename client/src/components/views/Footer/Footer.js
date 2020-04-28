@@ -15,7 +15,7 @@ function Footer() {
     >
       <p>
         {' '}
-        Happy Coding <Icon type="smile" />
+        Movie is life - limprove :) <Icon type="smile" />
       </p>
     </div>
   );
